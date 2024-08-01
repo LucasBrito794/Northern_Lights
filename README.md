@@ -5,7 +5,7 @@
 ### 🖥 Sobre o Projeto
 
 - **Projeto autoral** feito para **fins didáticos**, com **empresa 100% fictícia**;
-- Neste utilizei **FlexBox**, **Grid**, **importação de Fontes Externas**, **Flowbite** para adicionar o **carrousel** na **versão mobile** e metodologia **Mobile First**, sendo o projeto totalmente **responsivo** nas versões **mobile** e **desktop**;
+- Neste utilizei **FlexBox**, **Grid**, **importação de Fontes Externas**, **Flowbite** para adicionar o **carousel** na **versão mobile** e metodologia **Mobile First**, sendo o projeto totalmente **responsivo** nas versões **mobile** e **desktop**;
 - Realizei **tratamento das imagens** para o site **renderizar** de maneira **mais rápida** e não ficar pesado o seu processamento;
 - No **arquivo de configuração do Tailwind**, acrescentei **cores**, **spacing**, **novos tamanhos de tela** e **imagens** para adicioná-las nos elementos HTML como se fosse uma classe.
 
