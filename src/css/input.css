@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Ceci";
+    src: url("../fonts/cice.otf");
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Mandrel";
+    src: url("../fonts/Mandrel.otf");
+    font-style: normal;
+    font-display: swap;
+  }
+}
