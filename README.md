@@ -12,6 +12,7 @@
 ### 🌟 Tecnologias utilizadas
 
 - [**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [**Tailwind CSS**](https://tailwindcss.com/)
 - [**Flowbite**](https://flowbite.com/docs/getting-started/introduction/)
 
